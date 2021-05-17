@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @eslamasaleh
-### :smiley: I’m Freelancer on Upwork As Data analyst
+### :smiley: I’m  Data analyst at Upwork As and Junior ML Engineer at Omdena
 - 👀 I’m interested in Data Science and anything related to Data 
 - 🌱 I’m currently learning Deeplearning and Data engineering Nano Degree in Udacity
 
