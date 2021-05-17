@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @eslamasaleh :bat:
-### :smiley: I’m  Data analyst at Upwork and Junior ML Engineer at Omdena
+### :technologist: I’m  Data analyst at Upwork and Junior ML Engineer at Omdena
 - 👀 I’m interested in Data Science and anything related to Data 
 - 🌱 I’m currently learning Deeplearning and Data engineering Nano Degree in Udacity
+
 
 
 <!---
